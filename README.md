@@ -7,8 +7,10 @@ Proyecto desarrollado para el XV Concurso de Robótica en la Facultad de Ciencia
 El sistema implementa un esquema reactivo basado en sensores donde el microcontrolador procesa información de distancia y detección de borde para tomar decisiones de movimiento.
 
 <p align="center">
-<img src="Media/Robot_final.jpeg" width="400">
-<img src="Media/Tercer_lugar.jpeg" width="400">
+  <img src="Media/Robot_final.jpeg" width="400">
+  <img src="Media/Tercer_lugar.jpeg" width="400">
+  <br>
+  <em>Figura: Robot Sumo</em>
 </p>
 
 ## Funcionalidad del sistema
